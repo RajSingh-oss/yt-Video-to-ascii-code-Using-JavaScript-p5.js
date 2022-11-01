@@ -1,0 +1,16 @@
+html, body {
+      margin: 0;
+      padding: 0;
+      color: rgb(0, 255, 0);
+      font-family: courier;
+      background-color: rgb(0, 0, 0);
+      font-size: 12pt;
+      line-height: 10pt;
+}
+canvas {
+      display: block;
+}
+.row{
+      position: fixed;
+      background-color: rgb(0, 0, 0);
+}
