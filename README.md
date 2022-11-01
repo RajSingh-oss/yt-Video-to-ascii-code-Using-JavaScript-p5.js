@@ -1,7 +1,7 @@
 # [Tech and Coding](https://www.youtube.com/@Tech-and-Coding)
 ## [_Video to ascii code Using JavaScript #p5.js_](https://www.youtube.com/watch?v=a276fMCZAkA)
 
-[![Build Status](https://github.com/RajSingh-oss/yt-Video-to-ascii-code-Using-JavaScript-p5.js/blob/master/preview.png)](https://github.com/RajSingh-oss)
+[![YouTube video](https://github.com/RajSingh-oss/yt-Video-to-ascii-code-Using-JavaScript-p5.js/blob/master/preview.png)]([https://github.com/RajSingh-oss](https://www.youtube.com/watch?v=a276fMCZAkA))
 --------------------------------------------
 Video to ascii code Using JavaScript #p5.js
 -
