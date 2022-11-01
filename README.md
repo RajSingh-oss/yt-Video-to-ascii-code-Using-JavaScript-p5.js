@@ -1,7 +1,7 @@
 # [Tech and Coding](https://www.youtube.com/@Tech-and-Coding)
 ## [_Video to ascii code Using JavaScript #p5.js_](https://www.youtube.com/watch?v=a276fMCZAkA)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/RajSingh-oss)
+[![Build Status](https://github.com/RajSingh-oss/yt-Video-to-ascii-code-Using-JavaScript-p5.js/blob/master/preview.png)](https://github.com/RajSingh-oss)
 --------------------------------------------
 Video to ascii code Using JavaScript #p5.js
 -
