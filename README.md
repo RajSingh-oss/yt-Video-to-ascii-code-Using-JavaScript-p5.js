@@ -37,4 +37,4 @@ In this project i use these tech
 - [Git](https://github.com/) - The Git Hub.
 ---
 ## License
-You can use this code for free and if wand to know more read [LICENSE.txt](https://github.com/RajSingh-oss/yt-Video-to-ascii-code-Using-JavaScript-p5.js#readme)
+You can use this code for free and if wand to know more read [LICENSE.txt](https://github.com/RajSingh-oss/yt-Video-to-ascii-code-Using-JavaScript-p5.js/blob/master/LICENSE.txt)
